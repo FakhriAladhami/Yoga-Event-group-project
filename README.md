@@ -38,9 +38,9 @@ Users can post their Yoga event and add other users’ posts.
 
 <h2 id="fag3">👨‍💻   Demo</h2>
 <p>Screenshoots of some main features</p>
- <img src="Yoge-Event-Project\Websit 6.png">
-  <img src="Yoge-Event-Project\website 1.png">
-  <img src="Yoge-Event-Project\Website 5.png">
-  <img src="Yoge-Event-Project\Website2.png">
-  <img src="Yoge-Event-Project\Website3.png">
+ <img src="Websit 6.png">
+  <img src="website 1.png">
+  <img src="Website 5.png">
+  <img src="Website2.png">
+  <img src="Website3.png">
  
