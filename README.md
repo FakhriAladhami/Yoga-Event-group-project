@@ -40,7 +40,6 @@ Users can post their Yoga event and add other users’ posts.
 <p>Screenshoots of some main features</p>
  <img src="Websit 6.png">
   <img src="website 1.png">
-  <img src="Website 5.png">
   <img src="Website2.png">
   <img src="Website3.png">
  
